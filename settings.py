@@ -1,8 +1,11 @@
 import django_heroku
 
-ALLOWED_HOSTS = [
-    '127.0.0.1', 'localhost', "bible-planner-backend.herokuapp.com"
-]
+DEBUG = True
+
+# ALLOWED_HOSTS = [
+#     "bible-planner-backend.herokuapp.com", "127.0.0.1", "localhost"
+# ]
+ALLOWED_HOSTS = ["*"]
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
