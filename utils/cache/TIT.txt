@@ -1,0 +1,3 @@
+Book name: Titus
+Chapter count: 3
+Verse count: 46

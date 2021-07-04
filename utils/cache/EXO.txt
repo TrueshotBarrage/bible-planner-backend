@@ -1,0 +1,3 @@
+Book name: Exodus
+Chapter count: 40
+Verse count: 1213

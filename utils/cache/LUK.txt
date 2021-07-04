@@ -1,0 +1,3 @@
+Book name: Luke
+Chapter count: 24
+Verse count: 1151

@@ -1,0 +1,3 @@
+Book name: Ecclesiastes
+Chapter count: 12
+Verse count: 222

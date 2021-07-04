@@ -1,0 +1,3 @@
+Book name: Job
+Chapter count: 42
+Verse count: 1070

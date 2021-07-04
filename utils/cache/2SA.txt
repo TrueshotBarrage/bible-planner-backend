@@ -1,0 +1,3 @@
+Book name: 2 Samuel
+Chapter count: 24
+Verse count: 695

@@ -1,0 +1,3 @@
+Book name: Numbers
+Chapter count: 36
+Verse count: 1288

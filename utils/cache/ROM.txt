@@ -1,0 +1,3 @@
+Book name: Romans
+Chapter count: 16
+Verse count: 433

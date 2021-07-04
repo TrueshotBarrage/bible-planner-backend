@@ -1,0 +1,3 @@
+Book name: Malachi
+Chapter count: 4
+Verse count: 55

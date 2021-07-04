@@ -1,0 +1,3 @@
+Book name: Genesis
+Chapter count: 50
+Verse count: 1533

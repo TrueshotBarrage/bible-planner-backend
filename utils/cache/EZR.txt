@@ -1,0 +1,3 @@
+Book name: Ezra
+Chapter count: 10
+Verse count: 280

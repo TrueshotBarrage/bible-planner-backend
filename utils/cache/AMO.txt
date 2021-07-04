@@ -1,0 +1,3 @@
+Book name: Amos
+Chapter count: 9
+Verse count: 146

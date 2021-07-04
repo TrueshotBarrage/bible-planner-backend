@@ -1,0 +1,3 @@
+Book name: Acts
+Chapter count: 28
+Verse count: 1007

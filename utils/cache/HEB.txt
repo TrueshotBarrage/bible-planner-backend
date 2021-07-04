@@ -1,0 +1,3 @@
+Book name: Hebrews
+Chapter count: 13
+Verse count: 303

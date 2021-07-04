@@ -1,0 +1,3 @@
+Book name: Jude
+Chapter count: 1
+Verse count: 25
