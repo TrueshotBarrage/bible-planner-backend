@@ -18,7 +18,10 @@ import utils.utils
 try:
     from utils.secrets import API_KEY
 except:
-    API_KEY = None
+    if os.environ["BIBLE_API_KEY"]:
+        API_KEY = os.environ["BIBLE_API_KEY"]
+    else:
+        API_KEY = None
 
 base_url = "https://api.scripture.api.bible"
 # KJV version id - hardcoded from API
@@ -51,7 +54,7 @@ def request_metadata(force, **config) -> list:
         books = books_res.json()["data"]
         print("Connection established to the Bible API.")
     else:
-        with open("books_of_the_bible.json", "r") as bf:
+        with open(os.path.join("utils", "books_of_the_bible.json"), "r") as bf:
             books = json.load(bf)["data"]
         print("Secrets file not found, so defaulting to prefetched data.")
 
