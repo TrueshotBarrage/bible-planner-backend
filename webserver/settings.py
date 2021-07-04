@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure--yy=&ec6f3$n9zpfw0%(d2%epd2&3(lzwm25g^^=)^*z^fe=^^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     "bible-planner-backend.herokuapp.com", "127.0.0.1", "localhost"
